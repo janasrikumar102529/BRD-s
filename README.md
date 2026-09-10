@@ -48,6 +48,8 @@ This BRD proposes **a digital loan origination process for unsecured retail pers
 
 ●	Maintain audit, compliance, and RBI Digital Lending Guideline controls.
 
+**NOTE:Follow BFSI_Digital_Loan_Process_BRD_v1_DOC for Detail Requirements.**
+
 
 
 **************************************************************************************************************************************************************************************************************************************************************************************************************************************
@@ -107,7 +109,7 @@ This BRD proposes a digital patient appointment scheduling process that lets pat
 ●	Maintain HIPAA-compliant handling of PHI across all scheduling channels.
 
 
-
+**NOTE:Follow Healthcare_Patient_Scheduling_BRD_DOC for Detail Requirements.**
 
 
 
