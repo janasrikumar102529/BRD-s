@@ -1,19 +1,27 @@
  BUSINESS REQUIREMENTS DOCUMENT (BRD)
  
  Digital Loan Origination & Credit Decisioning
+ 
  Unsecured Retail Personal Loans - Digital Channel
+ 
  BFSI Business Analysis Portfolio Project
 
-Domain	           - BFSI - Digital Lending (Unsecured Retail Personal Loans)
+Domain	            - BFSI - Digital Lending (Unsecured Retail Personal Loans)
+
 Document Type	     - Business Requirements Document Version	1.0
+
 Prepared By        - Jana Srikumar - Business Analyst
+
 Purpose	           - To improve the loan application and approval process through a digital, rules-driven origination and decisioning workflow
+
 Regulatory Scope   - RBI Digital Lending Guidelines (Sep 2022); RBI Master Direction - KYC, 2016 (as amended); Fair Practices Code
 
 **1. Executive Summary**
+
 This BRD proposes **a digital loan origination process for unsecured retail personal loans**, where customers can apply online, complete e-KYC, undergo bureau-based credit checks, and receive a rules-driven decision. The goal is to reduce manual work, processing time, and errors while improving customer experience, and to ensure the journey is designed in line with the RBI Digital Lending Guidelines (2022), including borrower consent, a Key Fact Statement (KFS) at sanction, and cooling-off / look-up period disclosures.
 
 **2. Business Problem**
+
 ●	Loan applications involve manual data entry and verification.
 ●	Customers may wait a long time for a decision.
 ●	Duplicate or incorrect information can create errors.
