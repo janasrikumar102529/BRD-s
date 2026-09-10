@@ -1,7 +1,7 @@
-                                                            BUSINESS REQUIREMENTS DOCUMENT (BRD)
-                                                     **Digital Loan Origination & Credit Decisioning**
-                                                     **Unsecured Retail Personal Loans - Digital Channel**
-                                                          BFSI Business Analysis Portfolio Project
+ BUSINESS REQUIREMENTS DOCUMENT (BRD)
+ Digital Loan Origination & Credit Decisioning
+ Unsecured Retail Personal Loans - Digital Channel
+ BFSI Business Analysis Portfolio Project
 
 Domain	           - BFSI - Digital Lending (Unsecured Retail Personal Loans)
 Document Type	     - Business Requirements Document Version	1.0
